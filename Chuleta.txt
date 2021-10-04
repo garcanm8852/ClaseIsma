@@ -1,0 +1,4 @@
+Workspace - Donde trabajamos
+Stagging - Registro de cambios
+Repo - Repositorio Local
+Repo Remoto - Servidor Contenedor
