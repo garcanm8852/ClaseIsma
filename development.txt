@@ -1,1 +1,1 @@
-Creación de botones pequeños con jquery
+Botones con Bootstrap
