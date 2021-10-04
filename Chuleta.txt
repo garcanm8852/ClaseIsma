@@ -5,3 +5,16 @@ Repo Remoto - Servidor Contenedor
 
 DEVELOP - 1000 archivos
 --RAMA ISMA - 1000
+
+
+checkout DEVELOP
+git checkout -b ramaTarea   ||   crear rama tarea
+git add .
+git commit -m ""
+git push -u origin ramaTarea  || Subiría y crearía una rama en el remoto.
+
+EN GITLAB 
+
+merge request   || Petición de unión de código.
+                || Te lo apruebo, no te lo apruebo
+Todo lo de ramaTarea pasaría a DEVELOP.
