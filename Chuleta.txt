@@ -2,3 +2,6 @@ Workspace - Donde trabajamos
 Stagging - Registro de cambios
 Repo - Repositorio Local
 Repo Remoto - Servidor Contenedor
+
+DEVELOP - 1000 archivos
+--RAMA ISMA - 1000
